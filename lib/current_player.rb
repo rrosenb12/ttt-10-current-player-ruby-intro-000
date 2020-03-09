@@ -7,7 +7,6 @@ def turn_count(board)
         Puts "This is turn number #{turn}"
         occupied_positions += 1
       end
-      end
     end
   end
 end

@@ -1,6 +1,6 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 occupied_positions != " "
-turn = 0
+occupied_positions = 0
 def turn_count(board)
   board.each do
     board.count do |turn|
